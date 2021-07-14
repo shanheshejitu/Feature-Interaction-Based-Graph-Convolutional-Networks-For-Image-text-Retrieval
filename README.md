@@ -7,6 +7,6 @@ We follow [bottom-up attention model](https://github.com/peteanderson80/bottom-u
 
 ```bash
 wget https://scanproject.blob.core.windows.net/scan-data/data.zip
-
+```
 ## Training new models
 Changing the `run_mode` arguments to 'train' in `demo.py` and run `demo.py`
